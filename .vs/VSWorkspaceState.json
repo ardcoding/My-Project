@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataAccess.Layer",
+    "\\MyProject",
+    "\\UserDB",
+    "\\UserDB\\Migrations"
+  ],
+  "SelectedNode": "\\UserDB\\Migrations\\20230827210417_mig1.cs",
+  "PreviewInSolutionExplorer": false
+}
